@@ -8,3 +8,5 @@ _exclude:
     - ".DS_Store"
     - ".svn"
     - ".ia/*"
+_force_overwrite:
+    - "example-file.txt"
